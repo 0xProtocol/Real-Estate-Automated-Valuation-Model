@@ -5,6 +5,12 @@
       <h1 class="text-3xl font-bold text-green-500">
         How to install Tailwind CSS 3 in Nuxt 3
       </h1>
+      <v-btn
+          elevation="2"
+      >BUTTON</v-btn>
+      <v-btn icon>
+        <v-icon>mdi-heart</v-icon>
+      </v-btn>
     </div>
   </div>
 </template>
